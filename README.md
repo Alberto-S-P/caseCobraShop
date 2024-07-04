@@ -1,7 +1,8 @@
 <div align="center">
+
 # Study Project 
 
-### Currently, I am developing a study project focused on frontend. The objective of this project is to deepen my knowledge of modern user interface development technologies and practices. I'm exploring popular frameworks, honing my responsive design skills, and working with tools that make it easy to create efficient, interactive web applications. This project is an opportunity to try new approaches, implement good development practices and stay up to date with market trends.
+#### Currently, I am developing a study project focused on frontend. The objective of this project is to deepen my knowledge of modern user interface development technologies and practices. I'm exploring popular frameworks, honing my responsive design skills, and working with tools that make it easy to create efficient, interactive web applications. This project is an opportunity to try new approaches, implement good development practices and stay up to date with market trends.
 </div>
 
 credit: https://github.com/joschan21
@@ -10,7 +11,7 @@ credit: https://github.com/joschan21
 CaseCobra - A Modern Fullstack E-Commerce Shop for Custom Phone Cases
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
-roject Image](https://github.com/joschan21/casecobra/blob/master/public/thumbnail.png)
+[project Image](https://github.com/joschan21/casecobra/blob/master/public/thumbnail.png)
 
 Features
 🛠️ Complete shop built from scratch in Next.js 14
@@ -26,3 +27,7 @@ Features
 ✅ Apple-inspired configuration design
 ⌨️ 100% written in TypeScript
 🎁 ...much more
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
