@@ -29,6 +29,9 @@ Features
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
 
+
+![project Image](https://github.com/Alberto-S-P/caseCobraShop/blob/main/public/preview/hero.png)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
